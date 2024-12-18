@@ -14,6 +14,7 @@
 - Worst code you can write is at 3:00am. Don't write code when you are tired.
 - It should be the goal of the development group that QA find nothing wrong.
 - Nothing has a more profound or long-lasting negative effect on the productivity of a software team than a mess.
+- Professional software developers know how to provide the business with practical estimates that the business can use for planning purposes. They do not make promises that they can’t keep, and they don’t make commitments that they aren’t sure they can meet.
       
 ## 06.12.2024
 - Decides to start documentiong everything I am learning 🙂
