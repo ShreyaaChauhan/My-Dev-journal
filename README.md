@@ -16,6 +16,7 @@
 - Nothing has a more profound or long-lasting negative effect on the productivity of a software team than a mess.
 - Professional software developers know how to provide the business with practical estimates that the business can use for planning purposes. They do not make promises that they can’t keep, and they don’t make commitments that they aren’t sure they can meet.
 - The first responsibility of the professional programmer is to meet the needs of his or her employer.
+- The worst thing a professional programmer can do is to blissfully bury himself in a tomb of technology while the business crashes and burns around him.
       
 ## 06.12.2024
 - Decides to start documentiong everything I am learning 🙂
