@@ -13,6 +13,7 @@
     - <b> Artifacts </b>: UML, DFDs, Structure Charts, Petri Nets, State Transition Diagrams and Tables, flow charts, and decision tables.
 - Worst code you can write is at 3:00am. Don't write code when you are tired.
 - It should be the goal of the development group that QA find nothing wrong.
+- Nothing has a more profound or long-lasting negative effect on the productivity of a software team than a mess.
       
 ## 06.12.2024
 - Decides to start documentiong everything I am learning 🙂
