@@ -1,6 +1,8 @@
 # My-Dev-journal
+## 20.12.2024
+- SLAP - Single Level of Abstraction Principle
 
-## 15.12.2024 -18.12.2024
+## 15.12.2024 -19.12.2024
 ### Lesson Learned - Clean Coder By Robert Cecil Martin
 - Make no harm to the function. It is professional developers responsibility to not harm or alter the existing code functions. They should code in a way that QA could not found any bug not the other way around.
 - Make no harm to the structure. Because of poor code structuring, tasks used to take days begins to take weeks, then months management add more developers to boost the productivity of the code but instead new developers ends up in damaging existing structure more raising the impediment
