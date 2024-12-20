@@ -1,6 +1,6 @@
 # My-Dev-journal
 ## 20.12.2024
-- SLAP - Single Level of Abstraction Principle
+- SLAP - Single Level of Abstraction Principle (for writing cleaner code)
 
 ## 15.12.2024 -19.12.2024
 ### Lesson Learned - Clean Coder By Robert Cecil Martin
