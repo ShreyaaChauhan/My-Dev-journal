@@ -1,4 +1,8 @@
 # My-Dev-journal
+## 25.12.2024
+### Lessons learned - The Art of Unit Testing By Roy Osherove
+- Test Recipes - A test recipe is a test plan, outlining at which level a particular feature should be tested
+  
 ## 20.12.2024
 - SLAP - Single Level of Abstraction Principle (for writing cleaner code)
 
