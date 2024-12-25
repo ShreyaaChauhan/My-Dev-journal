@@ -1,7 +1,10 @@
 # My-Dev-journal
-## 25.12.2024
+## 25.12.2024 - Present
 ### Lessons learned - The Art of Unit Testing By Roy Osherove
 - Test Recipes - A test recipe is a test plan, outlining at which level a particular feature should be tested
+
+### Lessons learned - Building Microservicds By Sam Newman
+- You should think of microservices as being a specific approach for SOA in the same way that Extreme Programming (XP) or Scrum is a specific approach for Agile software development.
   
 ## 20.12.2024
 - SLAP - Single Level of Abstraction Principle (for writing cleaner code)
