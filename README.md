@@ -2,6 +2,7 @@
 ## 25.12.2024 - Present
 ### Lessons learned - The Art of Unit Testing By Roy Osherove
 - Test Recipes - A test recipe is a test plan, outlining at which level a particular feature should be tested
+- "Organizations which design systems...are constrained to produce designs which are copies of the communication structures of these organizations" ​—​Melvin Conway,
 
 ### Lessons learned - Building Microservicds By Sam Newman
 - You should think of microservices as being a specific approach for SOA in the same way that Extreme Programming (XP) or Scrum is a specific approach for Agile software development.
