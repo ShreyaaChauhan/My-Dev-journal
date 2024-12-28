@@ -8,6 +8,7 @@
 - A five-person startup is likely to find a microservice architecture a drag. A hundred-person scale-up that is growing rapidly is likely to find that its growth is much easier to accommodate with a microservice architecture properly aligned around its product development efforts.
 - "Organizations which design systems...are constrained to produce designs which are copies of the communication structures of these organizations" ​—​Melvin Conway,
 - The whole point of a microservice is being able to make a change to one service and deploy it without needing to change any other part of the system. This is really quite important.
+- "A structure is stable if cohesion is strong and coupling is low." -Larry Constantine,
   
 ## 20.12.2024
 - SLAP - Single Level of Abstraction Principle (for writing cleaner code)
