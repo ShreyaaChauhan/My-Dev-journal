@@ -9,6 +9,17 @@
 - "Organizations which design systems...are constrained to produce designs which are copies of the communication structures of these organizations" ​—​Melvin Conway,
 - The whole point of a microservice is being able to make a change to one service and deploy it without needing to change any other part of the system. This is really quite important.
 - "A structure is stable if cohesion is strong and coupling is low." -Larry Constantine, **Cohesion** and **Coupling** are two ways to express the different trade-offs we make about where and why we group code; there is no one ideal method to arrange our code. Finding the ideal balance between these two concepts—one that makes the most sense for your particular situation and the issues you are now facing—is all we can do.
+- **Coupling**
+  - ```mermaid
+    ---
+    title: Types of Coupling
+    ---
+    flowchart LR
+    A[Domain] --> B[Pass Through]
+    B --> C[Common]
+    C -->D[Content]
+    A-. Low to High .->D
+    ```
   
 ## 20.12.2024
 - SLAP - Single Level of Abstraction Principle (for writing cleaner code)
